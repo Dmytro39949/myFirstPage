@@ -222,6 +222,8 @@ a {
   clip-path: polygon(50% 0%, 100% 50%, 50% 100%, 0% 50%);
 }
 
+
+
 .banner-buttons {
   display: flex;
   gap: 20px;
@@ -373,11 +375,14 @@ a {
     width: 100%;
   }
 
+
+  
   .navigation-menu {
     flex-direction: column;
     gap: 15px;
     width: 100%;
   }
+
 
   .navigation-social {
     width: 100%;
